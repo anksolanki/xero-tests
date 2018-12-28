@@ -19,12 +19,12 @@ public class xeroSeleniumUtil {
 		//verify email textbox
 		WebElement email = driver.findElement(By.id("email"));
 		email.clear();
-		email.sendKeys("rathod.ankita2430@gmail.com");
+		email.sendKeys("");
 
 		//verify password textbox
 		WebElement password = driver.findElement(By.id("password"));
 		password.clear();
-		password.sendKeys("Friends88");
+		password.sendKeys("");
 
 		//Submit button
 		WebElement submit_Button = driver.findElement(By.id("submitButton"));
