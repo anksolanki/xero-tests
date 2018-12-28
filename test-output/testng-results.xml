@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="169768" started-at="2018-12-28T06:33:17Z" finished-at="2018-12-28T06:36:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="169768" started-at="2018-12-28T06:33:17Z" finished-at="2018-12-28T06:36:07Z">
+      <class name="com.xero.xeroSeleniumTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.xero.xeroSeleniumTest@4501b7af]" name="beforeMethod" is-config="true" duration-ms="8225" started-at="2018-12-27T22:33:17Z" finished-at="2018-12-27T22:33:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addAccountEmptyAccountName()[pri:0, instance:com.xero.xeroSeleniumTest@4501b7af]" name="addAccountEmptyAccountName" duration-ms="40029" started-at="2018-12-27T22:33:25Z" finished-at="2018-12-27T22:34:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAccountEmptyAccountName -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.xero.xeroSeleniumTest@4501b7af]" name="afterMethod" is-config="true" duration-ms="157" started-at="2018-12-27T22:34:05Z" finished-at="2018-12-27T22:34:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.xero.xeroSeleniumTest@4501b7af]" name="beforeMethod" is-config="true" duration-ms="4668" started-at="2018-12-27T22:34:05Z" finished-at="2018-12-27T22:34:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addAccountEmptyAccountNumber()[pri:0, instance:com.xero.xeroSeleniumTest@4501b7af]" name="addAccountEmptyAccountNumber" duration-ms="33109" started-at="2018-12-27T22:34:10Z" finished-at="2018-12-27T22:34:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAccountEmptyAccountNumber -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.xero.xeroSeleniumTest@4501b7af]" name="afterMethod" is-config="true" duration-ms="197" started-at="2018-12-27T22:34:43Z" finished-at="2018-12-27T22:34:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.xero.xeroSeleniumTest@4501b7af]" name="beforeMethod" is-config="true" duration-ms="4180" started-at="2018-12-27T22:34:43Z" finished-at="2018-12-27T22:34:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addAccountEmptyAccountType()[pri:0, instance:com.xero.xeroSeleniumTest@4501b7af]" name="addAccountEmptyAccountType" duration-ms="34085" started-at="2018-12-27T22:34:48Z" finished-at="2018-12-27T22:35:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAccountEmptyAccountType -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.xero.xeroSeleniumTest@4501b7af]" name="afterMethod" is-config="true" duration-ms="186" started-at="2018-12-27T22:35:22Z" finished-at="2018-12-27T22:35:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.xero.xeroSeleniumTest@4501b7af]" name="beforeMethod" is-config="true" duration-ms="4634" started-at="2018-12-27T22:35:22Z" finished-at="2018-12-27T22:35:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addAccountPositiveTest()[pri:0, instance:com.xero.xeroSeleniumTest@4501b7af]" name="addAccountPositiveTest" duration-ms="40109" started-at="2018-12-27T22:35:27Z" finished-at="2018-12-27T22:36:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAccountPositiveTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.xero.xeroSeleniumTest@4501b7af]" name="afterMethod" is-config="true" duration-ms="167" started-at="2018-12-27T22:36:07Z" finished-at="2018-12-27T22:36:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.xero.xeroSeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
