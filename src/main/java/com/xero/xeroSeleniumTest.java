@@ -26,7 +26,7 @@ public class xeroSeleniumTest {
 
 	@BeforeMethod(alwaysRun = true)
 	public void beforeMethod() {
-		System.setProperty("webdriver.chrome.driver", "/Users/Ankita/Downloads/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "<chromedriver path>");
 
 		driver = new ChromeDriver(); 
 

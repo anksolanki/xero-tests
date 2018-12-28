@@ -10,6 +10,9 @@ import org.testng.Assert;
 
 public class xeroSeleniumUtil {
 
+	public String username = "";
+	public String password = "";
+
 	public void Login(WebDriver driver){
 
 		//Click on Login
@@ -19,12 +22,12 @@ public class xeroSeleniumUtil {
 		//verify email textbox
 		WebElement email = driver.findElement(By.id("email"));
 		email.clear();
-		email.sendKeys("");
+		email.sendKeys(username);
 
 		//verify password textbox
-		WebElement password = driver.findElement(By.id("password"));
-		password.clear();
-		password.sendKeys("");
+		WebElement pwd = driver.findElement(By.id("password"));
+		pwd.clear();
+		pwd.sendKeys(password);
 
 		//Submit button
 		WebElement submit_Button = driver.findElement(By.id("submitButton"));
